@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hfzfdlh (Hafiz)
-- 👀 I’m interested in data analytics, data science, and Structural Engineering
+- 👀 I’m interested in Frontend Dev, Backend Dev,  data analytics, data science, and Structural Engineering
 - 🌱 I’m currently learning Data analytics, Power BI, and Data Science tools.
 - 📫 How to reach me: email = fadillahhafiz.fadillah@gmail.com
 
